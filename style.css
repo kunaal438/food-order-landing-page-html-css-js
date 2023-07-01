@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    /* color variables */
+    --accent-color: #EAF2F5;
+    --primary-text-color: #141414;
+    --secondary-text-color: #007676;
+    --light-text-color: #fff;
+    --primary-color: #fff;
+    --secondary-color: #007676;
+    --alpha-secondary-color: rgba(0, 118, 118, 0.2);
+    --discount-color: #E71A1C;
+    --card-hover-bg-color: #F9F9F9;
+    --border-color: #f9f9f9;
+    --box-shadow-color: var(--accent-color);
+    --shadow: rgba(0, 0, 0, 0.05);
+    --box-shadow: rgba(0, 0, 0, 0.25);
+    --discount-banner-background-overlay: linear-gradient(rgba(0, 118, 118, 0.8), rgba(0, 118, 118, 0.8));
+    --phone-app-shadow: #C7E1EB;
+    --alpha-primary-color: rgba(255, 255, 255, 0.5);
+    --rating-color: #FFA800;
+
+    /* transition curves */
+    --transition-curve: cubic-bezier(0.36, -0.21, 0.16, 1.97);
+}
